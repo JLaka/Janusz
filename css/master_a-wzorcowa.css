@@ -1,0 +1,44 @@
+#slideshowu69
+{
+	position: relative;
+}
+
+#u82
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u428,#u541,#u550,#u559,#u568,#u595,#u604,#u613,#u622,#u631,#u640,#u649,#u658,#u667,#u676,#u685,#u694
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u541_clip,#u550_clip,#u568_clip,#u595_clip,#u604_clip,#u613_clip,#u649_clip,#u658_clip,#u676_clip,#u685_clip,#u694_clip
+{
+	overflow: hidden;
+}
+
+#u89-4,#u113-4,#u74-4
+{
+	position: absolute;
+	text-align: center;
+	line-height: 20px;
+	color: #000000;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+

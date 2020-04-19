@@ -1,0 +1,38 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="397963719"/>
+    <file name="master_a-wzorcowa.css" crc="284689518" ref="index"/>
+    <file name="index.css" crc="3783136920" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4291592202" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="colorized-image (2).jpg" crc="434910757" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="colorized-image (3).jpg" crc="79638354" ref="index"/>
+    <file name="colorized-image (8).jpg" crc="246225473" ref="index"/>
+    <file name="colorized-image (13).jpg" crc="3931128382" ref="index"/>
+    <file name="colorized-image (16).jpg" crc="402787925" ref="index"/>
+    <file name="colorized-image (33).jpg" crc="345262528" ref="index"/>
+    <file name="colorized-image (34).jpg" crc="339547570" ref="index"/>
+    <file name="colorized-image (45).jpg" crc="4068773222" ref="index"/>
+    <file name="colorized-image(065).jpg" crc="4108362674" ref="index"/>
+    <file name="colorized-image_034.jpg" crc="33447489" ref="index"/>
+    <file name="photo1000071-colorized.jpg" crc="4218505295" ref="index"/>
+    <file name="photo1000081-colorized.jpg" crc="143091439" ref="index"/>
+    <file name="photo1500071-colorized.jpg" crc="407083928" ref="index"/>
+    <file name="scan-131212-0016_.jpg" crc="4010704927" ref="index"/>
+    <file name="scan-131212-0021_.jpg" crc="4151393155" ref="index"/>
+    <file name="scan-131212-0030_.jpg" crc="3843460756" ref="index"/>
+    <file name="scan-131212-0031_.jpg" crc="3943154429" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4252905770" mt="1587213646996" redirect="true"/>
+</manifest>
