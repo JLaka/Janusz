@@ -9,17 +9,12 @@
 	background-color: transparent;
 }
 
-#u428,#u541,#u550,#u559,#u568,#u595,#u604,#u613,#u622,#u631,#u640,#u649,#u658,#u667,#u676,#u685,#u694
+#u694,#u880,#u889,#u898,#u907,#u916,#u925,#u934,#u943,#u952,#u961,#u970,#u979,#u988,#u997,#u1006,#u1015,#u1024,#u1033,#u1042,#u1051,#u1060,#u1069,#u1078,#u1087,#u1096,#u1105,#u1114,#u1123,#u1132,#u1141,#u1150
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-}
-
-#u541_clip,#u550_clip,#u568_clip,#u595_clip,#u604_clip,#u613_clip,#u649_clip,#u658_clip,#u676_clip,#u685_clip,#u694_clip
-{
-	overflow: hidden;
 }
 
 #u89-4,#u113-4,#u74-4
