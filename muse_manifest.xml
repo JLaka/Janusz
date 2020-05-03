@@ -1,8 +1,8 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="397963719"/>
-    <file name="master_a-wzorcowa.css" crc="365670101" ref="index"/>
-    <file name="index.css" crc="4156640873" ref="index"/>
+    <file name="master_a-wzorcowa.css" crc="139418481" ref="index"/>
+    <file name="index.css" crc="363655317" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,40 +14,88 @@
     <file name="jquery.watch.js" crc="4068933136" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="colorized-image (2).jpg" crc="434910757" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="colorized-image (3).jpg" crc="4213092688" ref="index"/>
-    <file name="colorized-image (8).jpg" crc="246225473" ref="index"/>
-    <file name="colorized-image (13).jpg" crc="3931128382" ref="index"/>
-    <file name="colorized-image (16).jpg" crc="276190156" ref="index"/>
-    <file name="colorized-image (33).jpg" crc="3937524967" ref="index"/>
-    <file name="colorized-image (34).jpg" crc="4010272838" ref="index"/>
-    <file name="colorized-image (45).jpg" crc="218682608" ref="index"/>
-    <file name="colorized-image(065).jpg" crc="4108362674" ref="index"/>
-    <file name="colorized-image_034.jpg" crc="33447489" ref="index"/>
-    <file name="photo1000071-colorized.jpg" crc="4218505295" ref="index"/>
-    <file name="photo1000081-colorized.jpg" crc="3838883245" ref="index"/>
-    <file name="photo1500071-colorized.jpg" crc="14379476" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="colorized-image (12).jpg" crc="4148077497" ref="index"/>
-    <file name="colorized-image (14).jpg" crc="3862494485" ref="index"/>
-    <file name="colorized-image (15).jpg" crc="3853828460" ref="index"/>
-    <file name="colorized-image (17).jpg" crc="4056943375" ref="index"/>
-    <file name="colorized-image (19).jpg" crc="3853655844" ref="index"/>
-    <file name="colorized-image (20).jpg" crc="4239334038" ref="index"/>
-    <file name="colorized-image (040).jpg" crc="4213092688" ref="index"/>
-    <file name="ja001.jpg" crc="104484619" ref="index"/>
-    <file name="ja005.jpg" crc="3807082708" ref="index"/>
-    <file name="ja006.jpg" crc="3878606469" ref="index"/>
-    <file name="ja008.jpg" crc="4050778262" ref="index"/>
-    <file name="ja009.jpg" crc="3865915245" ref="index"/>
-    <file name="ja011.jpg" crc="3834660989" ref="index"/>
-    <file name="scan-190331-0005_.jpg" crc="387266567" ref="index"/>
-    <file name="scan-190331-0007_.jpg" crc="196156089" ref="index"/>
-    <file name="scan-190403-0017_.jpg" crc="470818529" ref="index"/>
-    <file name="st001.jpg" crc="3861705850" ref="index"/>
-    <file name="st006.jpg" crc="4180587764" ref="index"/>
-    <file name="st007.jpg" crc="4268368232" ref="index"/>
+    <file name="001.jpg" crc="434910757" ref="index"/>
+    <file name="001b.jpg" crc="4240786257" ref="index"/>
+    <file name="001f.jpg" crc="4205550553" ref="index"/>
+    <file name="003.jpg" crc="4155188665" ref="index"/>
+    <file name="005.jpg" crc="3813806623" ref="index"/>
+    <file name="006.jpg" crc="33447489" ref="index"/>
+    <file name="007.jpg" crc="515334537" ref="index"/>
+    <file name="007b.jpg" crc="432443698" ref="index"/>
+    <file name="007c.jpg" crc="374029490" ref="index"/>
+    <file name="008.jpg" crc="387266567" ref="index"/>
+    <file name="009.jpg" crc="4056943375" ref="index"/>
+    <file name="010.jpg" crc="3853655844" ref="index"/>
+    <file name="010a.jpg" crc="308253835" ref="index"/>
+    <file name="010aa.jpg" crc="4013951841" ref="index"/>
+    <file name="010b.jpg" crc="3931128382" ref="index"/>
+    <file name="010c.jpg" crc="3778060982" ref="index"/>
+    <file name="010ca.jpg" crc="4213092688" ref="index"/>
+    <file name="010caa.jpg" crc="3998761821" ref="index"/>
+    <file name="010cab.jpg" crc="3772780345" ref="index"/>
+    <file name="010cac.jpg" crc="4170330546" ref="index"/>
+    <file name="010cb.jpg" crc="4056943375" ref="index"/>
+    <file name="010cc.jpg" crc="403491974" ref="index"/>
+    <file name="010cd.jpg" crc="4291241702" ref="index"/>
+    <file name="010ce.jpg" crc="355795191" ref="index"/>
+    <file name="010cf.jpg" crc="208772567" ref="index"/>
+    <file name="010cg.jpg" crc="3873258236" ref="index"/>
+    <file name="010d.jpg" crc="3862494485" ref="index"/>
+    <file name="010e.jpg" crc="276190156" ref="index"/>
+    <file name="012.jpg" crc="4010272838" ref="index"/>
+    <file name="012a.jpg" crc="4257170894" ref="index"/>
+    <file name="012aa.jpg" crc="4291655232" ref="index"/>
+    <file name="012ab.jpg" crc="4199665618" ref="index"/>
+    <file name="012ac.jpg" crc="183387925" ref="index"/>
+    <file name="012b.jpg" crc="3834660989" ref="index"/>
+    <file name="012ba.jpg" crc="111606449" ref="index"/>
+    <file name="012bb.jpg" crc="3776250885" ref="index"/>
+    <file name="012bc.jpg" crc="3788955121" ref="index"/>
+    <file name="014.jpg" crc="3853828460" ref="index"/>
+    <file name="014a.jpg" crc="194044192" ref="index"/>
+    <file name="015.jpg" crc="4165194273" ref="index"/>
+    <file name="016.jpg" crc="4239334038" ref="index"/>
+    <file name="016a.jpg" crc="499279389" ref="index"/>
+    <file name="016b.jpg" crc="3784025260" ref="index"/>
+    <file name="016c.jpg" crc="4083606521" ref="index"/>
+    <file name="018.jpg" crc="267019320" ref="index"/>
+    <file name="018a.jpg" crc="290960042" ref="index"/>
+    <file name="020.jpg" crc="14379476" ref="index"/>
+    <file name="020a.jpg" crc="438965935" ref="index"/>
+    <file name="021.jpg" crc="482575782" ref="index"/>
+    <file name="023.jpg" crc="275935970" ref="index"/>
+    <file name="024.jpg" crc="3886446161" ref="index"/>
+    <file name="025.jpg" crc="3906578476" ref="index"/>
+    <file name="028.jpg" crc="3937524967" ref="index"/>
+    <file name="028a.jpg" crc="3865915245" ref="index"/>
+    <file name="030.jpg" crc="104484619" ref="index"/>
+    <file name="031.jpg" crc="146406450" ref="index"/>
+    <file name="031a.jpg" crc="4144909705" ref="index"/>
+    <file name="031b.jpg" crc="3798706273" ref="index"/>
+    <file name="031c.jpg" crc="532183179" ref="index"/>
+    <file name="033.jpg" crc="3807082708" ref="index"/>
+    <file name="034.jpg" crc="3878606469" ref="index"/>
+    <file name="034a.jpg" crc="15262408" ref="index"/>
+    <file name="034b.jpg" crc="159258161" ref="index"/>
+    <file name="034c.jpg" crc="4059236972" ref="index"/>
+    <file name="035.jpg" crc="129897226" ref="index"/>
+    <file name="035a.jpg" crc="3822720365" ref="index"/>
+    <file name="036.jpg" crc="4200571872" ref="index"/>
+    <file name="036a.jpg" crc="3778026428" ref="index"/>
+    <file name="038.jpg" crc="470818529" ref="index"/>
+    <file name="039.jpg" crc="4280401836" ref="index"/>
+    <file name="040.jpg" crc="218682608" ref="index"/>
+    <file name="040a.jpg" crc="193166630" ref="index"/>
+    <file name="040b.jpg" crc="3980529703" ref="index"/>
+    <file name="042.jpg" crc="4108362674" ref="index"/>
+    <file name="042a.jpg" crc="3949258696" ref="index"/>
+    <file name="042c.jpg" crc="493617452" ref="index"/>
+    <file name="044.jpg" crc="4268368232" ref="index"/>
+    <file name="045.jpg" crc="246225473" ref="index"/>
+    <file name="045a.jpg" crc="424012056" ref="index"/>
+    <file name="046.jpg" crc="3861705850" ref="index"/>
   </folder>
-  <file name="index.html" crc="399594196" mt="1588187562727" redirect="true"/>
+  <file name="index.html" crc="230198398" mt="1588503110481" redirect="true"/>
 </manifest>
